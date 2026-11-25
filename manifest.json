@@ -1,10 +1,11 @@
+
 {
-  "id": "/deploy/public/",
+  "id": "https://jonnes.infinityfreeapp.com/deploy/public/",
   "name": "JONNES",
   "short_name": "JONNES",
   "description": "Aplikasi Monitoring dan Pengelolaan Laporan",
-  "start_url": "/deploy/public/",
-  "scope": "/deploy/public/",
+  "start_url": "https://jonnes.infinityfreeapp.com/deploy/public/",
+  "scope": "https://jonnes.infinityfreeapp.com/deploy/public/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#ffffff",
@@ -12,13 +13,13 @@
   "lang": "id",
   "icons": [
     {
-      "src": "/deploy/public/icons/icon-192.png",
+      "src": "https://jonnesdoloksaribu.github.io/jonnes-pwa-assets/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/deploy/public/icons/icon-512.png",
+      "src": "https://jonnesdoloksaribu.github.io/jonnes-pwa-assets/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
